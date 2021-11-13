@@ -1,0 +1,9 @@
+.footer-color{
+    background-color: darkgrey;
+    margin-top: 10px;
+   padding: 20px;
+}
+
+ul li{
+    list-style: none;
+}

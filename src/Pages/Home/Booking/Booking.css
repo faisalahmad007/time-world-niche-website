@@ -1,0 +1,10 @@
+.booking-area form{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.booking-area form input, textarea{
+    width: 40%;
+    margin-bottom: 10px;
+}
